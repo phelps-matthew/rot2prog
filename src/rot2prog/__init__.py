@@ -3,4 +3,4 @@
 This package is responsible for implementing the serial protocol to interact with the ROT2Prog controller. There is also a simulation model of the ROT2Prog controller included in the package, which can be used for testing when hardware is not available.
 """
 from rot2prog.rot2prog import ROT2Prog
-from rot2prog.rot2prog import ROT2ProgSim
+#from rot2prog.rot2prog import ROT2ProgSim
